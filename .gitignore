@@ -37,6 +37,8 @@ logs/
 # outputs/
 figures*/
 
+outputs/instant-nerf-*/meshes/
+
 # Useless Files
 #*.sh
 blender/
